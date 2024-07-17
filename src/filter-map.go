@@ -1,5 +1,4 @@
 package main
-
 import "fmt"
 
 type t_strmap map[string]string
